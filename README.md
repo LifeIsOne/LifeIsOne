@@ -23,4 +23,4 @@
 ![Android Studio](https://img.shields.io/badge/androidstudio%20Studio%20Code-007ACC?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### BLog
-[![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)![미라클 블로그](https://img.shields.io/badge/👉미라클블로그-000000?style=for-the-badge)](https://elated-value-48d.notion.site/26acda102de54c0caa7e5afd3909d2d8?pvs=4)
+[![미라클 블로그](https://img.shields.io/badge/👉미라클블로그-000000?style=for-the-badge)![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://elated-value-48d.notion.site/26acda102de54c0caa7e5afd3909d2d8?pvs=4)

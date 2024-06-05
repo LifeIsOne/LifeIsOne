@@ -13,7 +13,5 @@
 
 ### tool
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/androidstudio%20Studio%20Code-007ACC?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-![Android Studio](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Visual%20Studio%20Code-3DDC84?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)

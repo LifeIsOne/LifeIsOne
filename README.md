@@ -1,4 +1,4 @@
-### <img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" />
+### <img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" />
 
 ## 📚 기술 스택 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,9 +13,9 @@
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)

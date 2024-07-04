@@ -1,7 +1,6 @@
-# 기술 스택 및 개발 도구
+### <img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" />
 
-## 📚 기술 스택
-
+## 📚 기술 스택 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -18,9 +17,9 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 
 ## 🛠 개발 도구
 ![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)

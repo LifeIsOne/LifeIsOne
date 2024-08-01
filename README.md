@@ -1,5 +1,3 @@
-### <img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" /><img src="https://github.com/LifeIsOne/LifeIsOne/assets/97007464/2e77ab7a-3d51-4fd7-885b-f77873b570c9" width="100" />
-
 ## 📚 기술 스택 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

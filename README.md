@@ -14,6 +14,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
